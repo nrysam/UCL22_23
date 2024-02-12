@@ -1,4 +1,5 @@
-#Football Analytics Project: Forming XI of the UCL 22/23
+Football Analytics Project: Forming XI of the UCL 22/23
+
 Project Overview
 This project presents an in-depth analysis of soccer players' performances across different positions to form the "XI of the UCL 22/23". It leverages advanced statistical methods and data visualization techniques to evaluate and select the top performers. The analysis is segmented into five Python scripts, each serving a distinct purpose towards the final selection of players.
 
