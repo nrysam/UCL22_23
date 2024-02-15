@@ -5,18 +5,19 @@ This project presents an in-depth analysis of soccer players' performances acros
 
 ## **Scripts Description**
 1. Best XI Analysis (UCL_22_23_Best_XI_Analysis.ipynb)
-Purpose: Integrates all positional analyses to form the best possible team lineup based on recent tournament data.
-Visualizations: Includes a Violin Plot to compare players' scores across positions.
+- Purpose: Integrates all positional analyses to form the best possible team lineup based on recent tournament data.
+- Visualizations: Includes a Violin Plot to compare players' scores across positions.
 2. Goalkeeper Analysis (goalkeeper_analysis.py)
 3. Defender Analysis (defender_analysis.py)
 4. Midfielder Analysis (midfielder_analysis.py)
 5. Forward Analysis (forward_analysis.py)
-Purpose (for all above): Analyzes players in the specified position using key performance metrics.
-Visualizations: Features Heatmap, Barplot, and Radar Chart to showcase various aspects of player performance.
-Technologies
-Data Manipulation: Pandas
-Visualization: Seaborn, Bokeh, Matplotlib
-Machine Learning: Scikit-learn for scaling and normalization
+- Purpose (for all above): Analyzes players in the specified position using key performance metrics.
+- Visualizations: Features Heatmap, Barplot, and Radar Chart to showcase various aspects of player performance.
+
+### Technologies :
+- Data Manipulation: Pandas
+- Visualization: Seaborn, Bokeh, Matplotlib
+- Machine Learning: Scikit-learn for scaling and normalization
 
 
 ## **Forming XI of the Tournament Analysis**
@@ -32,10 +33,10 @@ Visualizations: Includes a Violin Plot to compare players' scores across positio
 5. Forward Analysis (forward_analysis.py)
 
 ## **Features**
-Data Preprocessing: Scripts include data cleaning, normalization, and transformation techniques to prepare the dataset for analysis.
-Statistical Analysis: Utilization of weighted metrics to objectively rate player performances.
-Interactive Visualizations: Implementation of Bokeh for creating dynamic plots that enhance the analytical narrative, alongside traditional Matplotlib and Seaborn charts.
-Positional Analysis: Detailed examination of player performances across different positions to ensure a balanced and data-driven team selection.
+- Data Preprocessing: Scripts include data cleaning, normalization, and transformation techniques to prepare the dataset for analysis.
+- Statistical Analysis: Utilization of weighted metrics to objectively rate player performances.
+- Interactive Visualizations: Implementation of Bokeh for creating dynamic plots that enhance the analytical narrative, alongside traditional Matplotlib and Seaborn charts.
+- Positional Analysis: Detailed examination of player performances across different positions to ensure a balanced and data-driven team selection.
 
 ## **Getting Started**
 To explore this analysis:
@@ -46,12 +47,12 @@ To explore this analysis:
 4. Open and run the Jupyter Notebooks to view the analysis and visualizations.
 
 ## **Requirements**
-Python 3.x
-Pandas
-Matplotlib
-Seaborn
-Bokeh
-Scikit-learn
+- Python 3.x
+- Pandas
+- Matplotlib
+- Seaborn
+- Bokeh
+- Scikit-learn
 For a complete list of required libraries, please refer to the requirements.txt file.
 
 ## **Contributions**
