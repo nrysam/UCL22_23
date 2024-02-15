@@ -34,13 +34,13 @@ To explore this analysis:
 4. Open and run the Jupyter Notebooks to view the analysis and visualizations.
 
 ## **Requirements**
-- Python 3.x
+- Python 3.0
 - Pandas
 - Matplotlib
 - Seaborn
 - Bokeh
 - Scikit-learn
-For a complete list of required libraries, please refer to the requirements.txt file.
+For a complete list of required libraries, please refer to the [requirements.txt](https://github.com/nrysam/UCL22_23/blob/main/requirements.txt) file.
 
 ## **Contributions**
 Feedback, bug reports, and contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
