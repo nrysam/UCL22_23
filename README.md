@@ -4,10 +4,10 @@
 This project presents an in-depth analysis of soccer players' performances across different positions to form the "XI of the UCL 22/23". It leverages advanced statistical methods and data visualization techniques to evaluate and select the top performers. The analysis is segmented into five Python scripts, each serving a distinct purpose towards the final selection of players.
 
 ## **Scripts Description**
-1. Best XI Analysis (UCL_22_23_Best_XI_Analysis.ipynb)
+1. Best XI Analysis [UCL_22_23_Best_XI_Analysis.ipynb](https://github.com/nrysam/UCL22_23/blob/main/UCL_22_23_Best_XI_Analysis_.ipynb)
 - Purpose: Integrates all positional analyses to form the best possible team lineup based on recent tournament data.
 - Visualizations: Includes a Violin Plot to compare players' scores across positions.
-2. Goalkeeper Analysis (goalkeeper_analysis.py)
+2. Goalkeeper Analysis [goalkeeper_analysis.py](https://github.com/nrysam/UCL22_23/blob/main/UEFA_Champions_League_2022_23_Best_Defender_Analysis.ipynb)
 3. Defender Analysis (defender_analysis.py)
 4. Midfielder Analysis (midfielder_analysis.py)
 5. Forward Analysis (forward_analysis.py)
