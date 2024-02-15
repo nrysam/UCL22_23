@@ -1,7 +1,9 @@
 # **Football Analytics Project: Forming XI of the UCL 22/23**
 
+
 ## **Project Overview**
 This project presents an in-depth analysis of soccer players' performances across different positions to form the "XI of the UCL 22/23". It leverages advanced statistical methods and data visualization techniques to evaluate and select the top performers. The analysis is segmented into five Python scripts, each serving a distinct purpose towards the final selection of players.
+
 
 ## **Scripts Description**
 1. [Best XI Analysis](https://github.com/nrysam/UCL22_23/blob/main/UCL_22_23_Best_XI_Analysis_.ipynb)
@@ -19,6 +21,7 @@ This project presents an in-depth analysis of soccer players' performances acros
 - Visualization: Seaborn, Bokeh, Matplotlib
 - Machine Learning: Scikit-learn for scaling and normalization
 
+
 ## **Features**
 - Data Preprocessing: Scripts include data cleaning, normalization, and transformation techniques to prepare the dataset for analysis.
 - Statistical Analysis: Utilization of weighted metrics to objectively rate player performances.
@@ -33,6 +36,7 @@ To explore this analysis:
 3. Install the required libraries mentioned in requirements.txt by running pip install -r requirements.txt in your terminal.
 4. Open and run the Jupyter Notebooks to view the analysis and visualizations.
 
+
 ## **Requirements**
 - Python 3.0
 - Pandas
@@ -43,8 +47,10 @@ To explore this analysis:
 
 For a complete list of required libraries, please refer to the [requirements.txt](https://github.com/nrysam/UCL22_23/blob/main/requirements.txt) file.
 
+
 ## **Contributions**
 Feedback, bug reports, and contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
 
 ## **Authors**
 Henry
