@@ -8,7 +8,7 @@ This project presents an in-depth analysis of soccer players' performances acros
 ## **Scripts Description**
 1. [Best XI Analysis](https://github.com/nrysam/UCL22_23/blob/main/UCL_22_23_Best_XI_Analysis_.ipynb)
 - Purpose: Integrates all positional analyses to form the best possible team lineup based on recent tournament data.
-- Visualizations: Includes a Violin Plot to compare players' scores across positions.
+- Visualizations: Includes a Violin Plot and Bokeh to compare players' scores across positions.
 2. [Goalkeeper Position Analysis](https://github.com/nrysam/UCL22_23/blob/main/UEFA_Champions_League_2022_23_Best_Goalkeeper_Analysis.ipynb)
 3. [Defender Position Analysis](https://github.com/nrysam/UCL22_23/blob/main/UEFA_Champions_League_2022_23_Best_Defender_Analysis.ipynb)
 4. [Midfielder Position Analysis](https://github.com/nrysam/UCL22_23/blob/main/UEFA_Champions_League_2022_23_Best_Midfielder_Analysis.ipynb)
