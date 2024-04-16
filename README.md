@@ -51,6 +51,8 @@ For a complete list of required libraries, please refer to the [requirements.txt
 ## **Contributions**
 Feedback, bug reports, and contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
+## **Changelog**
+Please refer to this [changelog file](https://github.com/nrysam/UCL22_23/blob/main/changelog.md) for any changelog within this repository. 
 
 ## **Authors**
 Henry
