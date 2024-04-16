@@ -2,7 +2,7 @@
 
 
 ## **Project Overview**
-This project presents an in-depth analysis of soccer players' performances across different positions to form the "XI of the UCL 22/23". It leverages advanced statistical methods and data visualization techniques to evaluate and select the top performers. The analysis is segmented into five Python scripts, each serving a distinct purpose towards the final selection of players.
+This project presents an in-depth analysis of football players' performances from UEFA Champions League (UCL) season 2022/2023 across different positions to form the "XI of the UCL 22/23". It leverages advanced statistical methods and data visualization techniques to evaluate and select the top performers. The analysis is segmented into five Python scripts, each serving a distinct purpose towards the final selection of players.
 
 
 ## **Scripts Description**
